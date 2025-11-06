@@ -33,13 +33,6 @@ While building this project, I explored how to:
 - **CSS / Tailwind CSS (optional)**
 - **HTML5**
 
----
-
-## 📸 Preview
-
-![Emoji Player Screenshot](./screenshot.png)
-
----
 
 ## ⚙️ How to Run Locally
 
