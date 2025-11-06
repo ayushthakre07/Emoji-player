@@ -1,0 +1,14 @@
+.color-option{
+padding: 10px;
+margin: 10px;
+border-radius: 10px;
+cursor: pointer;
+height: 60px;
+width: 60px;
+border: none;
+}
+.color-option:hover{
+
+
+box-shadow: 0 0 2px 2px #918f8f;
+}
