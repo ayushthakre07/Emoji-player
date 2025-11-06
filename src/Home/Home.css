@@ -1,0 +1,111 @@
+.header{
+    text-align: center;  
+     pointer-events: none;
+
+
+}
+.span{
+    color: red;
+}
+.min-h-screen{
+    min-height: screen; 
+  
+}
+.w-full{
+    width: full;
+}
+.relative{
+    position:relative ;
+}
+.absolute{
+    position: absolute;
+}
+.bg-white{
+    background: #ffffff;
+}
+.inset-0{
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.z-0{
+    z-index: 0;
+     pointer-events: none;
+
+}
+.app-description{
+    text-align: center;
+    font-size: 20px;
+}
+.emoji{
+    display: inline-block;
+    transition: transform 0.2s ease-out;
+
+}
+.emoji-container{
+width: 180px;
+height: 180px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 150px auto;
+border-radius: 20px;
+border: 1px solid rgb(139, 136, 136);
+box-shadow: 0 0 5px 5px rgb(152, 152, 160);
+}
+.emoji-picker{
+    background:rgb(219, 220, 228);
+width: fit-content;
+border: 1px solid grey;
+padding: 10px;
+border-radius: 10px;
+position: absolute;
+height: 400px;
+ display: flex;
+flex-direction: column;
+flex-wrap: wrap; 
+margin-top: -520px;
+margin-left: 50px;
+}
+.slider-container{
+    font-size: 30px;
+    margin-top: -120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+   
+}
+.color-picker{
+    background: rgb(219, 220, 228);
+width:400px;
+border: 1px solid grey;
+padding: 10px;
+border-radius: 10px;
+position: absolute;
+height: 400px;
+ display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+right: 0; 
+margin-top: -520px;
+margin-right: 50px;
+}
+
+.reset-container{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      margin:50px auto;
+}
+.reset-button{
+padding: 20px;
+margin: 20px;
+font-size: 25px;
+border: 3px solid rgb(59, 29, 29);
+border-radius: 35px;
+cursor: pointer;
+background: rgb(242, 238, 238) ;
+cursor: pointer;
+font-weight: 700;
+}
